@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-#La pagina del ferran
+# La pagina del ferran
 
 La pagina esta dedicada .
 a la ciberseguretat per empreses.
