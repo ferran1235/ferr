@@ -5,15 +5,15 @@ permalink: /about/
 ---
 # La pagina del ferran
 
-La pagina esta dedicada .
+La pagina esta dedicada.
 a la ciberseguretat per empreses.
 
 Aqui podras trobar **informacio**realgionada amb la *ciber*
 
 empreses que portem :
--microsoft.
--lenovo.
--asus.
+- microsoft.
+- lenovo.
+- asus.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
