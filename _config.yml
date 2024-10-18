@@ -28,7 +28,7 @@ twitter_username: ferr14
 github_username:  ferr14
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacked-jekyll
 plugins:
   - jekyll-feed
 
